@@ -1,0 +1,12 @@
+2024-07-12 17:12:52 [main] INFO  com.example.log4j.Log4jApplication - Starting Log4jApplication using Java 22.0.1 with PID 11476 (C:\Users\HP\IdeaProjects\log4j\target\classes started by HP in C:\Users\HP\IdeaProjects\log4j)
+2024-07-12 17:12:52 [main] INFO  com.example.log4j.Log4jApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-12 17:12:54 [main] INFO  com.example.log4j.Log4jApplication - Started Log4jApplication in 2.744 seconds (process running for 7.215)
+2024-07-12 17:12:54 [main] INFO  com.example.log4j.Log4jApplication - This is an info message.
+2024-07-12 17:12:54 [main] ERROR com.example.log4j.Log4jApplication - This is an error message.
+2024-07-13 00:22:47 [main] INFO  com.example.log4j.Log4jApplication - Starting Log4jApplication using Java 22.0.1 with PID 13668 (C:\Users\HP\IdeaProjects\log4j\target\classes started by HP in C:\Users\HP\IdeaProjects\log4j)
+2024-07-13 00:22:47 [main] INFO  com.example.log4j.Log4jApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-13 00:22:48 [main] INFO  com.example.log4j.Log4jApplication - Started Log4jApplication in 1.355 seconds (process running for 3.247)
+2024-07-13 00:22:48 [main] INFO  com.example.log4j.Log4jApplication - Order shipped successfully.
+2024-07-13 00:22:48 [main] WARN  com.example.log4j.Log4jApplication - Potential security vulnerability detected in user input: '...'
+2024-07-13 00:22:48 [main] ERROR com.example.log4j.Log4jApplication - Failed to process order. Error: {. . .}
+2024-07-13 00:22:48 [main] FATAL com.example.log4j.Log4jApplication - System crashed. Shutting down...
