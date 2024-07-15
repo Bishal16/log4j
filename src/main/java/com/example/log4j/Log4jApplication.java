@@ -17,7 +17,7 @@
             logger.info("Order shipped successfully.");
             logger.warn("Potential security vulnerability detected in user input: '...'");
             logger.error("Failed to process order. Error: {. . .}");
-            logger.fatal("System crashed. Shutting down...");
+            logger.fatal("System -----------------...");
         }
 
     }
